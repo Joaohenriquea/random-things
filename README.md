@@ -1,3 +1,1 @@
 # random-things
-
-love tech
